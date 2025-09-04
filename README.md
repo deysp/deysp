@@ -6,7 +6,7 @@
 ## 📌 Sobre mim
 - 🔭 Sempre em busca de novos desafios no mundo da programação  
 - 📚 Estudando e aprimorando habilidades em arquitetura de software e boas práticas  
-- ⚡ Gosto de integrar software e hardware para criar soluções inovadoras
+- ⚡ Gosto de integrar software e criar soluções inovadoras
 
 ## 🚀 Front-end
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
